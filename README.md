@@ -1,6 +1,6 @@
-Pemrograman Lanjut Praktikum 2024
-Tugas 2: Pengayaan
-Nama  : Muhammad Olfat Faiz
+Pemrograman Lanjut Praktikum 2024;
+Tugas 2: Pengayaan;
+Nama  : Muhammad Olfat Faiz;
 NIM   : 235150700111021
 
 // // //
